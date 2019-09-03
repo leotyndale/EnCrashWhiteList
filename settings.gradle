@@ -1,0 +1,2 @@
+include ':app', ':whitecrash'
+rootProject.name='EnCrashWhiteList'
