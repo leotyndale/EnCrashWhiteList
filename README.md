@@ -114,7 +114,7 @@ public final class ActivityThread extends ClientTransactionHandler {
 在gralde的dependencies中加入
 
 ```groovy
-		compile 'com.imuxuan:whitecrash:1.0'
+compile 'com.imuxuan:whitecrash:1.0'
 ```
 
 ### 配置崩溃信息
@@ -149,7 +149,7 @@ new CrashInfo().setExceptionName("NullPointerException") // 捕获 NullPointerEx
 拼接规则如下：
 
 ```java
-	Build.MANUFACTURER/Build.MODEL
+Build.MANUFACTURER/Build.MODEL
 ```
 
 其中，Build.MANUFACTURER 为获取设备制造商，Build.MODEL 为获取设备名，用“/”连接。
@@ -157,13 +157,13 @@ new CrashInfo().setExceptionName("NullPointerException") // 捕获 NullPointerEx
 例如：
 
 ```java
-	vivo/vivo X3L
+vivo/vivo X3L
 ```
 
 或者，
 
 ```java
-	OPPO/R9PlustmA
+OPPO/R9PlustmA
 ```
 
 ## 实践效果
