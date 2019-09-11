@@ -105,7 +105,7 @@ public final class ActivityThread extends ClientTransactionHandler {
     });
 ```
 
-不过这个并不新鲜，类似的实践有很多，我们不能一味的捕获主线程中的崩溃，需要有一套白名单崩溃处理机制和 loop 协作，来整治棘手的崩溃问题。
+不过这个并不新鲜，类似的实践有很多(like [StackOverflow](https://stackoverflow.com/questions/2764394/ideal-way-to-set-global-uncaught-exception-handler-in-android%29))，我们不能一味的捕获主线程中的崩溃，需要有一套白名单崩溃处理机制和 loop 协作，来整治棘手的崩溃问题。
 
 ## 使用方法
 
