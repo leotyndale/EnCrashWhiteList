@@ -1,6 +1,6 @@
 ![Logo](https://raw.githubusercontent.com/leotyndale/EnFloatingView/master/preview/logo.png)
 
-EnFloatingView
+EnCrashWhiteList
 ==========================
 [![Jcenter](https://img.shields.io/badge/Jcenter-v1.0-brightgreen.svg?style=flat)](https://bintray.com/leotyndale/Muxuan/EnCrashWhitList)
 [![Muxuan](https://img.shields.io/badge/PoweredBy-Muxuan-green.svg?style=flat)](http://www.imuxuan.com/)
@@ -180,7 +180,7 @@ Vivo X3 的 RemoteServiceException 崩溃统计图，崩溃已经下降，剩余
 
 ## 下载测试
 
-https://github.com/leotyndale/EnCrashWhiteList/releases/download/1.0/app-debug.apk
+<https://github.com/leotyndale/EnCrashWhiteList/releases/download/1.0/app-debug.apk>
 
 二维码用微信扫一扫会被拦截，请换其他扫码工具
 
