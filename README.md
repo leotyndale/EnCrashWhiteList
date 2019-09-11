@@ -177,3 +177,11 @@ Vivo X3 的 RemoteServiceException 崩溃统计图，崩溃已经下降，剩余
 ![image-20190911111429030](README.assets/image-20190911111429030.png)
 
 其他的还在未来的路上，等你实践。
+
+## 下载测试
+
+https://github.com/leotyndale/EnCrashWhiteList/releases/download/1.0/app-debug.apk
+
+二维码用微信扫一扫会被拦截，请换其他扫码工具
+
+![image-20190911142747718](README.assets/image-20190911142747718.png)
