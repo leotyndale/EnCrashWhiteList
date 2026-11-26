@@ -199,3 +199,15 @@ Vivo X3 的 RemoteServiceException 崩溃统计图，崩溃已经下降，剩余
 二维码用微信扫一扫会被拦截，请换其他扫码工具
 
 ![image-20190911142747718](README.assets/image-20190911142747718.png)
+
+---
+
+## 更多开源项目（More Open-Source Projects）
+
+| 项目 | 简介 | Stars |
+| --- | --- | --- |
+| [**mobile-agent-skills**](https://github.com/leotyndale/mobile-agent-skills) | 面向 Claude Code / Cursor / Codex / Antigravity / Gemini CLI 的移动端 AI 技能库（含 `android-crash-triage`） | ![Stars](https://img.shields.io/github/stars/leotyndale/mobile-agent-skills?style=flat-square&color=f59e0b) |
+| [**EnFloatingView**](https://github.com/leotyndale/EnFloatingView) | 无需一切权限的应用内悬浮窗，全 ROM 兼容（含 Jetpack Compose 混编） | ![Stars](https://img.shields.io/github/stars/leotyndale/EnFloatingView?style=flat-square&color=f59e0b) |
+| [**AppArchitecture**](https://github.com/leotyndale/AppArchitecture) | 2026 移动端架构工程实践指南与《移动开发架构设计实战》随书源码 | ![Stars](https://img.shields.io/github/stars/leotyndale/AppArchitecture?style=flat-square&color=f59e0b) |
+| [**EnDebugBubble**](https://github.com/leotyndale/EnDebugBubble) | 应用内悬浮调试气泡入口，实时内存监控与开关配置 | ![Stars](https://img.shields.io/github/stars/leotyndale/EnDebugBubble?style=flat-square&color=f59e0b) |
+
